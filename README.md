@@ -1,5 +1,5 @@
 
-# pyPLC - Rangkuman Proyek
+# CS hacking: Electric car charging experiments with Python and PLC network adaptors
 
 **pyPLC** adalah proyek open-source berbasis Python yang dirancang untuk memudahkan interaksi dengan Programmable Logic Controllers (PLC). Proyek ini menawarkan solusi sederhana dan efisien untuk mengendalikan dan berkomunikasi dengan PLC melalui bahasa pemrograman Python.
 
